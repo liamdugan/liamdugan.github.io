@@ -8,4 +8,4 @@ date: 2020-12-19
 location: "Philadelphia, PA"
 ---
 
-This is my thesis talk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KoZvpKZ4k60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -6,6 +6,6 @@ date: 2022-06-30
 venue: 'Findings of NAACL (Short Papers)'
 paperurl: 'http://liamdugan.github.io/files/fill-in-the-blank.pdf'
 ---
-This is the paper
+Daphne Ippolito, **Liam Dugan**, Emily Reif, Ann Yuan, Andy Coenen, and Chris Callison-Burch
 
 [Download paper here](http://liamdugan.github.io/files/fill-in-the-blank.pdf)

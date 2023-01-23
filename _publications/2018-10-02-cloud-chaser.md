@@ -6,6 +6,6 @@ date: 2018-10-02
 venue: 'ICMV'
 paperurl: 'http://liamdugan.github.io/files/cloud-chaser.pdf'
 ---
-This is the paper 
+Zhengyi Luo, Austin Small, **Liam Dugan**, and Stephen Lane
 
 [Download paper here](http://liamdugan.github.io/files/cloud-chaser.pdf)

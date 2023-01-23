@@ -6,6 +6,6 @@ date: 2023-02-04
 venue: 'AAAI (Long Papers)'
 paperurl: 'http://liamdugan.github.io/files/real-or-fake-text.pdf'
 ---
-This is the paper.
+**Liam Dugan\***, Daphne Ippolito*, Arun Kirubarajan, Sherry Shi, and Chris Callison-Burch
 
 [Download paper here](http://liamdugan.github.io/files/real-or-fake-text.pdf)

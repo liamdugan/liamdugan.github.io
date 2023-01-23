@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Liam Dugan"
   avatar           : "profile.png"
-  bio              : "PhD Student at University of Pennsylvania"
+  bio              : "ldugan at seas.upenn.edu"
   location         : "Philadelphia, PA"
   employer         :
   pubmed           :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "liam-dugan"
   orcid            :
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "@liamdugan114"
   wikipedia        :
 
 

@@ -11,37 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S.E. in Computer Engineering & East Asian Studies, University of Pennsylvania, 2020
-* M.S.E. in Robotics, University of Pennsylvania, 2020
-* Ph.D in Computer Science, University of Pennsylvania, 2027 (expected)
+* Ph.D Computer Science, University of Pennsylvania, 2027 (expected)
+* M.S.E. Robotics, University of Pennsylvania, 2020
+* B.S.E. Computer Engineering, University of Pennsylvania, 2020
 
 Work experience
 ======
-* Summer 2022: PhD Research Intern
-  * Roblox Research, (San Mateo, CA)
-  * Developed end-to-end simultaneous speech-to-speech translation systems
-  * Supervisor: Morgan McGuire, Victor Zordan
-
-* Summer 2021: Visiting Research Scholar
-  * John's Hopkins University, (Baltimore, MD)
-  * Worked on customizing MT for cross-lingual information retrieval
-  * Supervisor: Kevin Duh, Paul McNamee
-
-* Summer 2019: Autonomous Driving Software Intern
-  * NVIDIA Corporation, (Santa Clara, CA)
-  * Assisted development of platform for on-demand downloads of self-driving car software
-  * Supervisor: Gajanan Bhat
-
-* Summer 2018: Software Engineering Intern
-  * Robotic Research, (Clarksburg, MD)
-  * Developed driver-level object classifiers for Velodyne VLP-16 LIDAR on autonomous ground resupply convoys
-  * Supervisor: Anne Schneider
+* Summer 2022: Research Intern, Roblox
+* Summer 2021: Visiting Research Scholar, John's Hopkins University
+* Summer 2019: Software Engineering Intern, NVIDIA Corporation
+* Summer 2018: Software Engineering Intern, Robotic Research
   
 Technical Skills
 ======
-* Natural Languages: English (native), Japanese (business fluent), Korean (elementary)
-* Programming Languages: Python, C/C++, Java, bash, CUDA, MATLAB, R, JavaScript, HTML/CSS, Verilog, Go
-* ML Frameworks/Libraries: PyTorch, Numpy, Pandas, Huggingface, Fairseq, Tensorflow, OpenCV
+* Natural Languages: 
+  * English (native), Japanese (business fluent), Korean (elementary)
+* Programming Languages: 
+  * Python, C/C++, Java, bash, CUDA, MATLAB, R, JavaScript, HTML/CSS
+* ML Frameworks/Libraries: 
+  * PyTorch, Numpy, Pandas, Huggingface, Fairseq, Tensorflow, OpenCV
 
 Publications
 ======

@@ -6,6 +6,6 @@ date: 2020-12-22
 venue: 'Masters Theses'
 paperurl: 'http://liamdugan.github.io/files/thesis.pdf'
 ---
-This is the paper
+**Liam Dugan**
 
 [Download paper here](http://liamdugan.github.io/files/thesis.pdf)
