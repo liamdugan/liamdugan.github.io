@@ -1,5 +1,5 @@
 ---
-title: "The Case for a Single Model that can both Generate Continuations and Fill-in-the-blank"
+title: "The Case for a Single Model that can both Generate Continuations and Fill-in-the-Blank"
 collection: publications
 permalink: /publications/2022-06-30-fill-in-the-blank
 date: 2022-06-30
