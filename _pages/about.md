@@ -13,7 +13,6 @@ Hey! I’m Liam, a second year PhD student at the University of Pennsylvania, wi
 My research focuses primarily on large language models and how humans interact with them. In particular, I am interested in analyzing how humans detect generated text and if we can apply those insights to automatic detection systems. I am also interested in the practical application of large language models to education.
 
 My current work includes:
-
 - Analyzing human and automatic detection of generated text
 - Automatic Question Generation for "Smart Textbooks"
 - Developing low latency End-to-End Speech Translation

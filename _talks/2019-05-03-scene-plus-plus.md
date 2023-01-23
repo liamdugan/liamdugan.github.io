@@ -1,5 +1,5 @@
 ---
-title: "Scene++ VR"
+title: "Scene++ VR: Senior Design Presentation"
 collection: talks
 type: "Senior Design Presentation"
 permalink: /talks/2019-05-03-scene-plus-plus

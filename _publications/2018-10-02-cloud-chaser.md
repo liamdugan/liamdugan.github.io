@@ -5,7 +5,7 @@ permalink: /publications/2018-10-02-cloud-chaser
 date: 2018-10-02
 venue: 'ICMV'
 paperurl: 'http://liamdugan.github.io/files/cloud-chaser.pdf'
+citation: 'Zhengyi Luo, Austin Small, <b>Liam Dugan</b>, and Stephen Lane'
 ---
-Zhengyi Luo, Austin Small, **Liam Dugan**, and Stephen Lane
 
 [Download paper here](http://liamdugan.github.io/files/cloud-chaser.pdf)

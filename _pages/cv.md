@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+For those who prefer, here is my CV in [PDF form](http://liamdugan.github.io/files/cv.pdf)
+
 Education
 ======
 * Ph.D Computer Science, University of Pennsylvania, 2027 (expected)

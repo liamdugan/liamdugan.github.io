@@ -8,4 +8,4 @@ date: 2022-01-25
 location: "Philadelphia, PA"
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRoxN0DvBl1fK3oxpKlSklsvWEufRMKrVkZJ4YMejOTKWWPp5p5snZkmgVx4Z7G-9u9EOX1K1r_qrem/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRoxN0DvBl1fK3oxpKlSklsvWEufRMKrVkZJ4YMejOTKWWPp5p5snZkmgVx4Z7G-9u9EOX1K1r_qrem/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
