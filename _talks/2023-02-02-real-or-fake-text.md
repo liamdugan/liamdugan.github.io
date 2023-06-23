@@ -1,7 +1,7 @@
 ---
-title: "Real or Fake Text?: Investigating Human Ability to Detect Boundaries Between Human-Writeen and Machine-Generated Text"
+title: "Real or Fake Text?: Investigating Human Ability to Detect Boundaries Between Human-Written and Machine-Generated Text"
 collection: talks
-type: "Pre-Recorded Conference Talk"
+type: "Conference Talk"
 permalink: /talks/2023-02-02-real-or-fake-text
 venue: "AAAI 2023"
 date: 2023-02-02
