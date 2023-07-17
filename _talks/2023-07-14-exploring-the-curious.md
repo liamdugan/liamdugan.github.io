@@ -1,11 +1,11 @@
 ---
-title: "Should we still use Text for Speech-to-Speech Translation? Promise meets Practice"
+title: "Exploring the Curious Case of Code Prompts"
 collection: talks
-type: "Invited Talk"
-permalink: /talks/2023-05-04-should-we-still
-venue: "John's Hopkins HLTCOE Seminar"
-date: 2023-05-04
-location: "Baltimore, MD"
+type: "Conference Talk"
+permalink: /talks/2023-07-14-exploring-the-curious
+venue: "NLRSE Workshop @ ACL 2023"
+date: 2023-07-14
+location: "Toronto, Canada"
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQiloWmrO4HoBaysxbPY8wfJsQMUDFtqvJJFoxRpqJwPghoUjzTkTUrvlFRPniUhCcq9QfpRMRgTFW6/embed?start=false&loop=false&delayms=3000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zC6qd86iUkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
