@@ -468,3 +468,14 @@ a.reversefootnote {
   color: $danger-color;
   font-weight: bold;
 }
+
+
+/*
+   Responsive google slides and youtube videos
+   ========================================================================== */
+iframe[src*="docs.google.com"],
+iframe[src*="youtube.com"]{
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
