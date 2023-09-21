@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I’m Liam, a second-year PhD student at the University of Pennsylvania, with the [Penn NLP](https://nlp.cis.upenn.edu/) group. I am advised by Professor [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). 
+Hey! I’m Liam, a third-year PhD student at the University of Pennsylvania, with the [Penn NLP](https://nlp.cis.upenn.edu/) group. I am advised by Professor [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). 
 
 My research focuses primarily on large language models and how humans interact with them. In particular, I am interested in human detection of generated text and whether we can apply those insights to automatic detection systems. I am also interested in the practical application of large language models to education.
 
@@ -19,7 +19,7 @@ My previous work has included:
 - Automatic Question Generation for "Smart Textbooks"
 - Developing low latency End-to-End Speech Translation
 
-Outside of academia, I like to play chess, run, and study foreign languages. Feel free to reach out if you want to chat about my research or the PhD application process!
+Outside of academia, I like to play [chess](https://www.chess.com/member/liam-dugan), [run](https://www.strava.com/athletes/43873251), and [study foreign languages](https://www.wanikani.com/users/Liam-Dugan). Feel free to reach out if you want to chat about my research or the PhD application process!
 
 <!-- Recent News
 =====
