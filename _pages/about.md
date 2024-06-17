@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I’m Liam, a third-year PhD student at the University of Pennsylvania, with the [Penn NLP](https://nlp.cis.upenn.edu/) group. I am advised by Professor [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). 
+Hey! I’m Liam, a rising fourth-year PhD student at the University of Pennsylvania, with the [Penn NLP](https://nlp.cis.upenn.edu/) group. I am advised by Professor [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). 
 
 My research focuses primarily on large language models and how humans interact with them. In particular, I am interested in human detection of generated text and whether we can apply those insights to automatic detection systems. I am also interested in the practical application of large language models to education.
 
 My co-authors and I maintain the [Real or Fake Text](http://roft.io) website where people can test how well they can detect generated text. Feel free to try it yourself to test your detection skill!
 
+I recently created the [RAID Benchmark](https://raid-bench.xyz/) which is the largest and most challenging benchmark for automatic detection of machine-generated text. Check out our [Leaderboard](https://raid-bench.xyz/leaderboard) to see what detectors are the best!
+
 My previous work has included:
-- Analyzing human and automatic detection of generated text
+- Customizing Machine Translation systems for Cross-Lingual Question Answering
 - Automatic Question Generation for "Smart Textbooks"
 - Developing low latency End-to-End Speech Translation
 
