@@ -14,7 +14,7 @@ My research focuses primarily on large language models and how humans interact w
 
 My co-authors and I maintain the [Real or Fake Text](http://roft.io) website where people can test how well they can detect generated text. Feel free to try it yourself to test your detection skill!
 
-I recently created the [RAID Benchmark](https://raid-bench.xyz/) which is the largest and most challenging benchmark for automatic detection of machine-generated text. Check out our [Leaderboard](https://raid-bench.xyz/leaderboard) to see what detectors are the best!
+I also recently released [RAID](https://raid-bench.xyz/) -- the largest and most challenging benchmark for automatic detection of machine-generated text. Check out the [RAID Leaderboard](https://raid-bench.xyz/leaderboard) to see what detectors are the best!
 
 My previous work has included:
 - Customizing Machine Translation systems for Cross-Lingual Question Answering
