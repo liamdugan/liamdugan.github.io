@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I’m Liam, a third-year PhD student at the University of Pennsylvania, with the [Penn NLP](https://nlp.cis.upenn.edu/) group. I am advised by Professor [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). 
+Hey! I’m Liam, a fourth-year PhD student at the University of Pennsylvania, with the [Penn NLP](https://nlp.cis.upenn.edu/) group. I am advised by Professor [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/). 
 
-My research focuses primarily on large language models and how humans interact with them. In particular, I am interested in human detection of generated text and whether we can apply those insights to automatic detection systems. I am also interested in the practical application of large language models to education.
+My research focuses primarily on human and automated detection of AI-generated content. In particular, I am interested in the limitations of detection tools and strategies for deploying detectors with minimal harm. My co-authors and I maintain the [Real or Fake Text](http://roft.io) website where people can test how well they can detect generated text. We also recently released the [RAID Benchmark](https://raid-bench.xyz/) the largest and most challenging benchmark for automatic generated text detectors. Feel free to check these resources out yourself to both test your detection skill and compare popular detectors!
 
-My co-authors and I maintain the [Real or Fake Text](http://roft.io) website where people can test how well they can detect generated text. We also maintain the [RAID Benchmark](https://raid-bench.xyz/) the largest and most challenging benchmark for automatic generated text detectors. Feel free to check these resources out yourself to both test your detection skill and compare popular detectors!
+This semester (Fall 2024) I am co-organizer of the Penn [Computational Linguistics Lunch (CLunch)](https://nlp.cis.upenn.edu/clunch.html) Seminar as well as leading the Penn Statistical NLP Reading Group.
 
 My previous work has included:
 - Customizing Machine Translation systems for Cross-Lingual Question Answering
