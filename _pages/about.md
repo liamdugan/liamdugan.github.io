@@ -21,7 +21,7 @@ My previous work has included:
 
 Outside of academia, I like to play [chess](https://www.chess.com/member/liam-dugan), [run](https://www.strava.com/athletes/43873251), and [study foreign languages](https://www.wanikani.com/users/Liam-Dugan). Feel free to reach out if you want to chat about my research or the PhD application process!
 
-This semester (Fall 2024) I am organizing the weekly Penn [Computational Linguistics Lunch (CLunch)](https://nlp.cis.upenn.edu/clunch.html) Seminar and the Penn Statistical NLP Reading Group. Please reach out if you are a current Penn student and are interested in joining!
+This semester (Spring 2025) I am organizing the Penn Statistical NLP Reading Group. Please reach out if you are a current Penn student and are interested in joining!
 
 <!-- Recent News
 =====
