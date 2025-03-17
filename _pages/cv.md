@@ -13,12 +13,13 @@ For those who prefer, here is my CV in [PDF form](http://liamdugan.github.io/fil
 
 Education
 ======
-* Ph.D Computer Science, University of Pennsylvania, 2027 (expected)
+* Ph.D Computer Science, University of Pennsylvania, 2026 (expected)
 * M.S.E. Robotics, University of Pennsylvania, 2020
 * B.S.E. Computer Engineering, University of Pennsylvania, 2020
 
 Work experience
 ======
+* Summer 2025: Student Researcher, Google DeepMind (Incoming)
 * Summer 2022: Research Intern, Roblox
 * Summer 2021: Visiting Research Scholar, John's Hopkins University
 * Summer 2019: Software Engineering Intern, NVIDIA Corporation
