@@ -3,7 +3,7 @@ title: "Group-Adaptive Threshold Optimization for Robust AI-Generated Text Detec
 collection: publications
 permalink: /publications/2025-02-10-groupthreshold
 date: 2025-02-10
-venue: 'NeurIPS (In submission)'
+venue: 'ArXiv'
 paperurl: 'http://liamdugan.github.io/files/groupthreshold.pdf'
 citation: 'Minseok Jung, Cynthia Fuertes Panizo, <b>Liam Dugan</b>, Pin-Yu Chen, Paul Pu Liang'
 ---
