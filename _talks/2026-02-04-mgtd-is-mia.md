@@ -2,7 +2,7 @@
 title: "Machine Text Detectors are Membership Inference Attacks"
 collection: talks
 type: "Invited Talk"
-permalink: /talks/2025-05-09-detecting-ai
+permalink: /talks/2026-02-04-mgtd-is-mia
 venue: "Google"
 date: 2026-02-04
 location: "Virtual"
